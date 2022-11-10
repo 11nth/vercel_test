@@ -1,0 +1,5 @@
+package.json
+package-lock.json
+db.sqlite3
+node_modules/
+.vercel
